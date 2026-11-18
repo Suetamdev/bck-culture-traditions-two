@@ -4,5 +4,5 @@ tags={
 	"Gameplay"
 }
 name="BCK - Culture Traditions Two"
-supported_version="1.20.*"
+supported_version="1.21.*"
 remote_file_id="3181200682"
